@@ -1,10 +1,10 @@
 # 🏢 24S2-CB0494 Singapore HDB Resale Price Prediction 📈  
 
-## Project Links  
+## 🔗 Project Links  
 •	[GitHub Repo](https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git)  
 •	[View Rendered Notebook](https://nbviewer.org/github/gracenngg/CB0494-HDB-Price-Predictions/blob/f7deadc5a5e1c630d66355da835c8ebc56156032/CB0494_HDB_Price_Predictions.ipynb)  
 
-## Overview  
+## 🔭 Overview  
 
 This project leverages machine learning algorithms to predict Housing & Development Board (HDB) resale flat prices in Singapore with exceptional accuracy. By applying advanced regression techniques to a comprehensive dataset of over 200,000 transactions, we've created a powerful price prediction model that achieves an R² score exceeding 0.87 on test data.  
 
