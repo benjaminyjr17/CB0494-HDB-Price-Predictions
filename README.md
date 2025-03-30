@@ -8,7 +8,7 @@
 
 This project leverages machine learning algorithms to predict Housing & Development Board (HDB) resale flat prices in Singapore with exceptional accuracy. By applying advanced regression techniques to a comprehensive dataset of over 200,000 transactions, we've created a powerful price prediction model that achieves an R² score exceeding 0.87 on test data.
 
-## 📊 Key Performance Metrics
+## 📊 Critical Performance Metrics
 
 | Model | Test RMSE (SGD) | Test R² | Test MAE (SGD) |
 |-------|-----------------|---------|----------------|
