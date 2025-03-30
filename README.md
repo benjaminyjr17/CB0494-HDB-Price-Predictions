@@ -1,8 +1,8 @@
 # 🏢 24S2-CB0494 Singapore HDB Resale Price Prediction 📈  
 
 ## Project Links  
-•	[GitHub Repo](https://github.com/benjaminyjr17/CB0494-HDB-Price-Predictions/blob/6eaeaebee1d7f9f8b58630d6c6877fbff1a6086b/CB0494_HDB_Price_Predictions.ipynb)  
-•	[View Rendered Notebook](https://nbviewer.org/github/benjaminyjr17/CB0494-HDB-Price-Predictions/blob/6eaeaebee1d7f9f8b58630d6c6877fbff1a6086b/CB0494_HDB_Price_Predictions.ipynb)  
+•	[GitHub Repo](https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git)  
+•	[View Rendered Notebook](https://nbviewer.org/github/gracenngg/CB0494-HDB-Price-Predictions/blob/6c1b01a7a37060538bca329d9e0f2033d723d491/CB0494_HDB_Price_Predictions.ipynb)  
 
 ## Overview  
 
