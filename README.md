@@ -41,7 +41,7 @@ This project demonstrates mastery of data science techniques including:
 • **Advanced feature engineering** (lease calculation, categorical encoding, temporal feature extraction).  
 • **Hyperparameter optimization** via grid search cross-validation.  
 • **Interpretable visualizations** for complex multidimensional data.  
-• **Robust model evaluation** with industry-standard metrics (RMSE, R², MAE).  
+• **Robust model evaluation** with industry-standard metrics (MAE, RMSE, R²).  
 • **Sophisticated data preprocessing** (pipelines, scalers, one-hot encoding).  
 
 ## 🛠️ Setup and Usage  
