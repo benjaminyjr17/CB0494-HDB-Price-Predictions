@@ -48,16 +48,16 @@ This project demonstrates mastery of data science techniques, including:
 
 ```bash  
 # Clone this repository  
-git clone https://github.com/yourusername/hdb-price-prediction.git  
+git clone https://github.com/gracenngg/24S2-CB0494-HDB-Price-Predictions.git  
 
 # Navigate to the repository  
-cd hdb-price-prediction  
+cd hdb-price-predictions  
 
 # Install required packages  
 pip install -r requirements.txt  
 
 # Run the Jupyter notebook  
-jupyter notebook HDB_Resale_Price_Prediction.ipynb  
+jupyter notebook HDB_Resale_Price_Predictions.ipynb  
 =======  
 # 24S2-CB0494: HDB Price Predictions  
  HDB Flat Price Predictions Using Machine Learning  
