@@ -6,7 +6,7 @@
 
 ## 🔭 Overview  
 
-This project leverages machine learning algorithms to predict Housing & Development Board (HDB) resale flat prices in Singapore with exceptional accuracy. By applying advanced regression techniques to a comprehensive dataset of over 200,000 transactions, we've created a powerful price prediction model that achieves an R² score exceeding 0.87 on test data.  
+This project leverages machine learning algorithms to accurately predict Housing & Development Board (HDB) resale flat prices in Singapore. By applying advanced regression techniques to a comprehensive dataset of over 200,000 transactions, we've created a powerful price prediction model that achieves an **R² score exceeding 0.87** on test data.  
 
 ## 📊 Critical Performance Metrics  
 
@@ -19,10 +19,10 @@ This project leverages machine learning algorithms to predict Housing & Developm
 
 1. **Most Important Factors Influencing Resale Prices:**  
    • **Floor area** is the strongest predictor, with larger units commanding significantly higher prices.  
-   • **Location (town)** has substantial impact, with central regions showing premium pricing patterns.  
-   • **Flat type** creates distinct pricing tiers, with 5-room and executive flats at the premium end.  
-   • **Floor level** demonstrates consistent positive correlation with price.  
-   • **Remaining lease** shows clear influence on valuation decisions.  
+   • **Location (town)** has a significant impact, with central regions showing premium pricing patterns.  
+   • **Flat type** creates distinct pricing tiers, with 5-room and executive flats at a premium.  
+   • **Floor level** demonstrates a consistent positive correlation with price.  
+   • **Remaining lease** shows an evident influence on valuation decisions.  
 
 2. **Model Performance:**  
    • Feature importance analysis reveals actionable insights for buyers and sellers.  
@@ -36,7 +36,7 @@ This project leverages machine learning algorithms to predict Housing & Developm
 
 ## 💻 Technical Implementation  
 
-This project demonstrates mastery of data science techniques including:  
+This project demonstrates mastery of data science techniques, including:  
 
 • **Advanced feature engineering** (lease calculation, categorical encoding, temporal feature extraction).  
 • **Hyperparameter optimization** via grid search cross-validation.  
