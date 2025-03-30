@@ -25,8 +25,8 @@ This project leverages machine learning algorithms to predict Housing & Developm
    • **Remaining lease** shows clear influence on valuation decisions.  
 
 2. **Model Performance:**  
-   • Our optimized Decision Tree model captures complex non-linear relationships in the housing market.  
    • Feature importance analysis reveals actionable insights for buyers and sellers.  
+   • Our optimized Decision Tree model captures complex non-linear relationships in the housing market.  
    • The model handles categorical variables effectively through sophisticated preprocessing.  
 
 3. **Practical Applications:**  
