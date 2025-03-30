@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏢 24S2-CB0494 Singapore HDB Resale Price Prediction 📈
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/hdb-price-prediction)
@@ -57,3 +58,7 @@ pip install -r requirements.txt
 
 # Run the Jupyter notebook
 jupyter notebook HDB_Resale_Price_Prediction.ipynb
+=======
+# 24S2-CB0494: HDB Price Predictions
+ HDB Flat Price Predictions Using Machine Learning
+>>>>>>> 93188c1111653fcb7124f46ac0fbe19684a28a28
