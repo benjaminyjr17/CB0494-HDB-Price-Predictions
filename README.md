@@ -30,8 +30,8 @@ This project leverages machine learning algorithms to predict Housing & Developm
    • The model handles categorical variables effectively through sophisticated preprocessing.  
 
 3. **Practical Applications:**  
-   • Interactive pricing tool allows stakeholders to estimate property values with confidence.  
    • Insights provide strategic advantages for both buyers and sellers in negotiation contexts.  
+   • Interactive pricing tool allows stakeholders to estimate property values with confidence.  
    • Methodology establishes a framework for ongoing market analysis as conditions evolve.  
 
 ## 💻 Technical Implementation  
