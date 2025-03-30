@@ -2,7 +2,7 @@
 
 ## Project Links  
 •	[GitHub Repo](https://github.com/gracenngg/CB0494-HDB-Price-Predictions.git)  
-•	[View Rendered Notebook](https://nbviewer.org/github/gracenngg/CB0494-HDB-Price-Predictions/blob/6c1b01a7a37060538bca329d9e0f2033d723d491/CB0494_HDB_Price_Predictions.ipynb)  
+•	[View Rendered Notebook](https://nbviewer.org/github/gracenngg/CB0494-HDB-Price-Predictions/blob/f7deadc5a5e1c630d66355da835c8ebc56156032/CB0494_HDB_Price_Predictions.ipynb)  
 
 ## Overview  
 
