@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 # 🏢 24S2-CB0494 Singapore HDB Resale Price Prediction 📈
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/hdb-price-prediction)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/hdb-price-prediction)
+## Project Links  
+•	[GitHub Repo](https://github.com/benjaminyjr17/CS2400-Regression-Analysis.git)  
+•	[View Rendered Notebook](https://nbviewer.org/github/benjaminyjr17/24S2-CS2400-Regression-Analysis/blob/a7295c2262a5847b3626b0b302e7279e69aef10f/Benjamin_Oliver_Yick_U2120984H.ipynb)  
 
 ## Overview
 
