@@ -38,11 +38,11 @@ This project leverages machine learning algorithms to predict Housing & Developm
 
 This project demonstrates mastery of data science techniques including:  
 
-- **Advanced feature engineering** (lease calculation, categorical encoding, temporal feature extraction).  
-- **Sophisticated data preprocessing** (pipelines, scalers, one-hot encoding).  
-- **Hyperparameter optimization** via grid search cross-validation.  
-- **Robust model evaluation** with industry-standard metrics (RMSE, R², MAE).  
-- **Interpretable visualizations** for complex multidimensional data.  
+• **Advanced feature engineering** (lease calculation, categorical encoding, temporal feature extraction).  
+• **Hyperparameter optimization** via grid search cross-validation.  
+• **Interpretable visualizations** for complex multidimensional data.  
+• **Robust model evaluation** with industry-standard metrics (RMSE, R², MAE).  
+• **Sophisticated data preprocessing** (pipelines, scalers, one-hot encoding).  
 
 ## 🛠️ Setup and Usage  
 
